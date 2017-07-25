@@ -1,0 +1,106 @@
+[
+  {
+    "op": "add",
+    "path": "/planetTypes/forest/layers/surface/dungeons/3",
+    "value": [
+      1,
+      ".mrmtname.apcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/desert/layers/surface/dungeons/3",
+    "value": [
+      1,
+      ".mrmtname.apcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/savannah/layers/surface/dungeons/3",
+    "value": [
+      1,
+      ".mrmtname.apcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/snow/layers/surface/dungeons/3",
+    "value": [
+      1,
+      ".mrmtname.apcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/jungle/layers/surface/dungeons/3",
+    "value": [
+      1,
+      ".mrmtname.apcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/alien/layers/surface/dungeons/3",
+    "value": [
+      1,
+      ".mrmtname.apcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/tundra/layers/surface/dungeons/3",
+    "value": [
+      1,
+      ".mrmtname.apcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/midnight/layers/surface/dungeons/3",
+    "value": [
+      1,
+      ".mrmtname.apcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/volcanic/layers/surface/dungeons/3",
+    "value": [
+      1,
+      ".mrmtname.apcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/scorchedcity/layers/surface/dungeons/3",
+    "value": [
+      1,
+      ".mrmtname.apcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/frozenvolcanic/layers/surface/dungeons/4",
+    "value": [
+      1,
+      ".mrmtname.apcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/snowdark/layers/surface/dungeons/4",
+    "value": [
+      1,
+      ".mrmtname.apcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/tundradark/layers/surface/dungeons/4",
+    "value": [
+      1,
+      ".mrmtname.apcamp"
+    ]
+  }
+]

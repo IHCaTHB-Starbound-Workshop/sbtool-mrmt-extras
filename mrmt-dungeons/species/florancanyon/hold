@@ -1,0 +1,258 @@
+[
+  {
+    "op": "add",
+    "path": "/planetTypes/forest/layers/surface/dungeons/11",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/desert/layers/surface/dungeons/11",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/savannah/layers/surface/dungeons/11",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/snow/layers/surface/dungeons/11",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/jungle/layers/surface/dungeons/11",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/alien/layers/surface/dungeons/11",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/tundra/layers/surface/dungeons/11",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/midnight/layers/surface/dungeons/11",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/volcanic/layers/surface/dungeons/11",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/scorchedcity/layers/surface/dungeons/11",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/ffunknown/layers/surface/dungeons/29",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/shadow/layers/surface/dungeons/30",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/superdense/layers/surface/dungeons/30",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/arboreal/layers/surface/dungeons/37",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/arboreal2/layers/surface/dungeons/38",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/arborealdark/layers/surface/dungeons/40",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/bloodstone/layers/surface/dungeons/39",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/bog/layers/surface/dungeons/41",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/chromatic/layers/surface/dungeons/40",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/frozenvolcanic/layers/surface/dungeons/12",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/snowdark/layers/surface/dungeons/12",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/tundradark/layers/surface/dungeons/12",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/fungus/layers/surface/dungeons/41",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/irradiated/layers/surface/dungeons/35",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/mountainous/layers/surface/dungeons/35",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/penumbra/layers/surface/dungeons/34",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/protoworld/layers/surface/dungeons/33",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/protoworlddark/layers/surface/dungeons/33",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/slimeworld/layers/surface/dungeons/32",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/thickjungle/layers/surface/dungeons/42",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/urbanwasteland/layers/surface/dungeons/35",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/urbanwasteland2/layers/surface/dungeons/35",
+    "value": [
+      1,
+      ".mrmtname.flcanyon"
+    ]
+  }
+]

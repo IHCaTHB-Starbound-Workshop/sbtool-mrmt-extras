@@ -1,0 +1,26 @@
+[
+  {
+    "op": "add",
+    "path": "/planetTypes/ocean/layers/subsurface/dungeons/1",
+    "value": [
+      0.3,
+      ".mrmtname.hyoceancity"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/strangesea/layers/subsurface/dungeons/3",
+    "value": [
+      0.3,
+      ".mrmtname.hyoceancity"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/nitrogensea/layers/surface/dungeons/5",
+    "value": [
+      0.3,
+      ".mrmtname.hyoceancity"
+    ]
+  }
+]

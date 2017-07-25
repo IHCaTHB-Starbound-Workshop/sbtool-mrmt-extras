@@ -1,0 +1,274 @@
+[
+  {
+    "op": "add",
+    "path": "/planetTypes/forest/layers/surface/dungeons/7",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/desert/layers/surface/dungeons/7",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/savannah/layers/surface/dungeons/7",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/snow/layers/surface/dungeons/7",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/jungle/layers/surface/dungeons/7",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/alien/layers/surface/dungeons/7",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/tundra/layers/surface/dungeons/7",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/midnight/layers/surface/dungeons/7",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/volcanic/layers/surface/dungeons/7",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/scorchedcity/layers/surface/dungeons/7",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/ffunknown/layers/surface/dungeons/20",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/shadow/layers/surface/dungeons/20",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/superdense/layers/surface/dungeons/20",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/arboreal/layers/surface/dungeons/27",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/arboreal2/layers/surface/dungeons/28",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/arborealdark/layers/surface/dungeons/30",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/bloodstone/layers/surface/dungeons/29",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/bog/layers/surface/dungeons/31",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/chromatic/layers/surface/dungeons/30",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/desertwastes/layers/surface/dungeons/27",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/desertwastesdark/layers/surface/dungeons/26",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/frozenvolcanic/layers/surface/dungeons/8",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/snowdark/layers/surface/dungeons/8",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/tundradark/layers/surface/dungeons/8",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/fungus/layers/surface/dungeons/31",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/irradiated/layers/surface/dungeons/25",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/mountainous/layers/surface/dungeons/25",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/penumbra/layers/surface/dungeons/24",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/protoworld/layers/surface/dungeons/23",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/protoworlddark/layers/surface/dungeons/23",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/slimeworld/layers/surface/dungeons/22",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/thickjungle/layers/surface/dungeons/32",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/urbanwasteland/layers/surface/dungeons/25",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/urbanwasteland2/layers/surface/dungeons/25",
+    "value": [
+      1,
+      ".mrmtname.avvillage"
+    ]
+  }
+]
