@@ -1,0 +1,12 @@
+[
+  {
+    "op" : "copy",
+    "path" : "/.mrmtname.cultistship",
+    "from" : "/cultistship"
+  },
+  {
+    "op": "replace",
+    "path": "/.mrmtname.cultistship/warpAction",
+    "value": "InstanceWorld:.mrmtname.cultistship"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op" : "copy",
+    "path" : "/.mrmtname.ship",
+    "from" : "/penguinship"
+  },
+  {
+    "op": "replace",
+    "path": "/.mrmtname.ship/primaryDungeon",
+    "value": ".mrmtname.ship"
+  }
+]

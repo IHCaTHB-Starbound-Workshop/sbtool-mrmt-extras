@@ -1,0 +1,12 @@
+[
+  {
+    "op" : "copy",
+    "path" : "/.mrmtname.merchantastroship",
+    "from" : "/merchantastroship"
+  },
+  {
+    "op": "replace",
+    "path": "/.mrmtname.merchantastroship/primaryDungeon",
+    "value": ".mrmtname.merchantastroship"
+  }
+]

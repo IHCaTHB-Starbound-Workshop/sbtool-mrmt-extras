@@ -1,0 +1,12 @@
+[
+  {
+    "op" : "copy",
+    "path" : "/.mrmtname.merchantindustrialship",
+    "from" : "/merchantindustrialship"
+  },
+  {
+    "op": "replace",
+    "path": "/.mrmtname.merchantindustrialship/dungeonWorld",
+    "value": ".mrmtname.merchantindustrialship"
+  }
+]

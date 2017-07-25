@@ -1,0 +1,12 @@
+[
+  {
+    "op" : "copy",
+    "path" : "/.mrmtname.researchship",
+    "from" : "/researchship"
+  },
+  {
+    "op": "replace",
+    "path": "/.mrmtname.researchship/dungeonWorld",
+    "value": ".mrmtname.researchship"
+  }
+]

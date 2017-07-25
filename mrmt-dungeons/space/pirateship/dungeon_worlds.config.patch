@@ -1,0 +1,12 @@
+[
+  {
+    "op" : "copy",
+    "path" : "/.mrmtname.pirateship",
+    "from" : "/pirateship"
+  },
+  {
+    "op": "replace",
+    "path": "/.mrmtname.pirateship/primaryDungeon",
+    "value": ".mrmtname.pirateship"
+  }
+]
