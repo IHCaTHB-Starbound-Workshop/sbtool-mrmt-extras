@@ -1,6 +1,20 @@
-MIT License, condition added
+MIT License, conditions added:
 
-Copyright (c) 2017 Isaac Hart
+This project as a whole is released under this modified MIT License. All files
+and pieces of this project without an explicit authorship or licensing
+identification defaults to being covered by this License.
+
+All text pieces of this project with an "@license MIT" comment are released
+under this modified MIT License, unless noted otherwise in their respective
+files or folders.
+
+All non-text pieces of this project are released under this modified MIT
+License, except for those listed in the files LICENSE or LICENSE.EXCEPTION, if
+any, in their respective folders.
+
+https://opensource.org/licenses/MIT
+
+Copyright (c) 2017 Isaac Hart (IHCaTHB)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

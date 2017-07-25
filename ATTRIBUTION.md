@@ -1,9 +1,9 @@
-# sbtool-mrmt-extras
+# sbmod-
 # attribution
 
 ## author
 
-IHCaTHB | forum: [714236] | steam: [The Honey Badger] | github: [IsaacHart]
+IHCaTHB | forum: [714236] | steam: [The Honey Badger] | github: [IsaacHart] | patreon: [IHCaTHB]
 
 ## credit
 
@@ -33,8 +33,15 @@ http://chbrown.github.io/rfc6902/
 
 [IsaacHart]: https://github.com/IHCaTHB-Starbound-Workshop
 
+[IHCaTHB]: https://www.patreon.com/IHCaTHB
+
 [Chucklefish]: http://www.chucklefish.org
 
 [Starbound]: http://playstarbound.com
 
 [The Starbound official forums modding community]: http://community.playstarbound.com/forums/111
+
+---
+
+@license MIT
+@author IHCaTHB
