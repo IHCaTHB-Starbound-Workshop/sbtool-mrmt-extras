@@ -1,0 +1,162 @@
+[
+  {
+    "op": "add",
+    "path": "/metadata/anchor/-",
+    "value": ".mrmtname.hyvillagehouse1"
+  },
+  {
+    "op": "add",
+    "path": "/metadata/anchor/-",
+    "value": ".mrmtname.hyvillagehouse2"
+  },
+  {
+    "op": "add",
+    "path": "/metadata/anchor/-",
+    "value": ".mrmtname.hyvillagehousesmall1"
+  },
+  {
+    "op": "add",
+    "path": "/metadata/anchor/-",
+    "value": ".mrmtname.hyvillagehousesmall2"
+  },
+  {
+    "op": "add",
+    "path": "/metadata/anchor/-",
+    "value": ".mrmtname.hyvillagehousesmall3"
+  },
+  {
+    "op": "add",
+    "path": "/metadata/anchor/-",
+    "value": ".mrmtname.hyvillagehouse3"
+  },
+  {
+    "op": "add",
+    "path": "/metadata/anchor/-",
+    "value": ".mrmtname.hyvillagegarden1"
+  },
+  {
+    "op": "add",
+    "path": "/metadata/anchor/-",
+    "value": ".mrmtname.hyvillagegarden2"
+  },
+  {
+    "op": "add",
+    "path": "/metadata/anchor/-",
+    "value": ".mrmtname.hyvillagehousegong"
+  },
+  {
+    "op": "add",
+    "path": "/metadata/anchor/-",
+    "value": ".mrmtname.hyvillagehouselib"
+  },
+  {
+    "op": "add",
+    "path": "/parts/-",
+    "value": {
+      "name": ".mrmtname.hyvillagehouse1",
+      "rules": [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def": [ "tmx", ".mrmtname.hyvillagehouse1.json" ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/parts/-",
+    "value": {
+      "name": ".mrmtname.hyvillagehouse2",
+      "rules": [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def": [ "tmx", ".mrmtname.hyvillagehouse2.json" ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/parts/-",
+    "value": {
+      "name": ".mrmtname.hyvillagehousesmall1",
+      "rules": [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def": [ "tmx", ".mrmtname.hyvillagehousesmall1.json" ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/parts/-",
+    "value": {
+      "name": ".mrmtname.hyvillagehousesmall2",
+      "rules": [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def": [ "tmx", ".mrmtname.hyvillagehousesmall2.json" ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/parts/-",
+    "value": {
+      "name": ".mrmtname.hyvillagehousesmall3",
+      "rules": [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def": [ "tmx", ".mrmtname.hyvillagehousesmall3.json" ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/parts/-",
+    "value": {
+      "name": ".mrmtname.hyvillagehouse3",
+      "rules": [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def": [ "tmx", ".mrmtname.hyvillagehouse3.json" ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/parts/-",
+    "value": {
+      "name": ".mrmtname.hyvillagegarden1",
+      "rules": [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def": [ "tmx", ".mrmtname.hyvillagegarden1.json" ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/parts/-",
+    "value": {
+      "name": ".mrmtname.hyvillagegarden2",
+      "rules": [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def": [ "tmx", ".mrmtname.hyvillagegarden2.json" ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/parts/-",
+    "value": {
+      "name": ".mrmtname.hyvillagehousegong",
+      "rules": [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def": [ "tmx", ".mrmtname.hyvillagehousegong.json" ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/parts/-",
+    "value": {
+      "name": ".mrmtname.hyvillagehouselib",
+      "rules": [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def": [ "tmx", ".mrmtname.hyvillagehouselib.json" ]
+    }
+  }
+]
